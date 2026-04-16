@@ -319,6 +319,6 @@ Not affiliated with Anthropic. "Claude" and "Opus" are trademarks of Anthropic P
 
 If this optimizer saves you time or improves your Claude results, consider starring the repo — it helps others discover it.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CheswickDEV/claude-opus-4.7-prompt-optimizer,CheswickDEV/claude-opus-4.6-prompt-optimizer&type=Date)](https://star-history.com/#CheswickDEV/claude-opus-4.7-prompt-optimizer&CheswickDEV/claude-opus-4.6-prompt-optimizer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CheswickDEV/claude-opus-4.7-prompt-optimizer&type=Date)](https://star-history.com/#CheswickDEV/claude-opus-4.7-prompt-optimizer)
 
 **[⭐ Star this repo](https://github.com/CheswickDEV/claude-opus-4.7-prompt-optimizer)** · **[🐛 Report an issue](https://github.com/CheswickDEV/claude-opus-4.7-prompt-optimizer/issues)** · **[💡 Request a feature](https://github.com/CheswickDEV/claude-opus-4.7-prompt-optimizer/issues/new)**
